@@ -176,8 +176,6 @@ img{
   nav{
     padding-top: 35px;
     /*Requirement 11*/
-
-    
     text-align: right; 
   }
 
@@ -188,7 +186,7 @@ img{
 
   /* Requirements 12-15 here: */
  
-  a.skip{
+  a.skip:focus{
     position: absolute;
     left: 0px;
     top:20px;
